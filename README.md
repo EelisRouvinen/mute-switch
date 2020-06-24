@@ -1,1 +1,3 @@
-# mute-switch
+# A terrible mute switch
+![](switch.gif)
+
